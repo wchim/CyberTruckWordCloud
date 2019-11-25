@@ -5,5 +5,5 @@ Inspired by ian-mcnair's Democratic Debate Word Clouds
 - Check it out: https://github.com/ian-mcnair/DemocraticDebateWordClouds
 
 ### Next Steps
-[] Different Masks
-[] Further Word Filter
+- Different Masks
+- Further Word Filter
